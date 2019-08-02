@@ -13,4 +13,8 @@
 ### 动画效果图
   
 ![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/1.png)
-https://gitee.com/hangzhou_extreme_wisdom_1282454734/YouPin/blob/master/gif/home.gif
+![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/2.png)
+![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/3.png)
+![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/4.png)
+![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/5.png)
+![img](https://github.com/iOSDeveloperWZC/xmyoupin/blob/master/6.png)
